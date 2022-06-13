@@ -1,0 +1,19 @@
+
+
+./dist
+
+
+
+# dependencies
+/node_modules
+
+# testing
+/dist
+
+# production
+/build
+
+# misc
+.cache
+.env.local
+
